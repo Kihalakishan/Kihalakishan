@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kishan</h1>
+<h3 align="center">Frontend Developer | UI Designer</h3>
 
-<!--
-**Kihalakishan/Kihalakishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;UI+Designer;Freelancer&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Working on Portfolio Website
+- 🌱 Learning React
+- 💬 Ask me about HTML, CSS, JS
+
+---
+
+## 🛠️ Skills
+HTML | CSS | JavaScript | React | Git | GitHub
+
+---
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Kihalakishan&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihalakishan&layout=compact&theme=tokyonight)
