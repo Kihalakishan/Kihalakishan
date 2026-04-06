@@ -56,22 +56,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kihalakishan&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kihalakishan&theme=tokyo-night"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
