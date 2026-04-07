@@ -45,7 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kihalakishan&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kihalakishan&theme=tokyonight" />
 </p>
----
 
 ## 🌐 Connect with Me
 
